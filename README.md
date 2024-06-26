@@ -9,7 +9,7 @@ Soy un desarrollador full stack apasionado por crear soluciones tecnológicas in
 - 💼 Tengo experiencia en el diseño e implementación de arquitecturas robustas de software, así como en la optimización de rendimiento y escalabilidad.
 - 👯 Estoy buscando colaborar en proyectos innovadores donde pueda aportar mis habilidades y aprender de otros profesionales talentosos.
 - 💬 No dudes en contactarme si tienes alguna pregunta sobre mis proyectos o necesitas asistencia técnica. Estoy aquí para ayudar.
-- 📫 Puedes contactarme a través de mi correo electrónico: luisambisc@outlook.com
+- 📫 Puedes contactarme a través de mi correo electrónico: yo12275@gmail.com
 
 #### Habilidades Técnicas
 
